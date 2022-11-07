@@ -10,4 +10,5 @@ basic reinforcement learning concepts and advanced methods
 最后，actor-critic.pdf是强化学习的经典算法，他结合了上述的两个流派，是很多实际应用中的首选方式。
 
 如果对您有帮助，非常期望获得您的star
+
 祝您学习顺利，工作愉快～
